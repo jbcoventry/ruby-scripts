@@ -1,0 +1,6 @@
+{
+    "[ruby]": {
+        "editor.defaultFormatter": "testdouble.vscode-standard-ruby"
+    },
+    "standardRuby.mode": "enableViaGemfile",
+}
