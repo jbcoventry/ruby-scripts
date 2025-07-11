@@ -1,5 +1,6 @@
 require "dotenv/load"
 require "open-uri"
+require "uri"
 require "json"
 
 if ARGV.empty?
@@ -8,11 +9,10 @@ if ARGV.empty?
   exit 1
 end
 query = ARGV[0]
-response = URI.open("https://serpapi.com/search.json?engine=google_light&q=#{query}&google_domain=google.com&gl=us&hl=en&api_key=#{ENV["API_KEY"]}").read
+response = URI.open("https://serpapi.com/search.json?engine=google_light&q=#{URI.encode_www_form_component query}&google_domain=google.com&gl=us&hl=en&api_key=#{ENV["API_KEY"]}").read
 data = JSON.parse(response)
-puts data
 if data.dig("knowledge_graph", "born").is_a?(String)
-  puts "#{Query} was born on:"
+  puts "#{query} was born on:"
   puts data["knowledge_graph"]["born"]
   exit
 end
