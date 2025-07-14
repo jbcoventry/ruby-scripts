@@ -10,7 +10,6 @@ if ARGV.empty?
 end
 query = "#{ARGV[0]}+subsidiaries"
 response = URI.open("https://serpapi.com/search.json?engine=google&q=#{URI.encode_www_form_component query}&google_domain=google.com&gl=us&hl=en&api_key=#{ENV["API_KEY"]}").read
-puts response
 data = JSON.parse(response)
 if data.dig("knowledge_graph", "subsidiaries").is_a?(Array)
   puts "#{query} has the following subsidiaries:"
