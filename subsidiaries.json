@@ -1,0 +1,850 @@
+{
+    "search_metadata": {
+        "id": "6874abaaabe7ec5036da1348",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d215a3493912597e/6874abaaabe7ec5036da1348.json",
+        "pixel_position_endpoint": "https://serpapi.com/searches/d215a3493912597e/6874abaaabe7ec5036da1348.json_with_pixel_position",
+        "created_at": "2025-07-14 07:03:06 UTC",
+        "processed_at": "2025-07-14 07:03:06 UTC",
+        "google_url": "https://www.google.com/search?q=Apple+Subsidiaries&oq=Apple+Subsidiaries&hl=en&gl=us&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d215a3493912597e/6874abaaabe7ec5036da1348.html",
+        "total_time_taken": 2.84
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "Apple Subsidiaries",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "Apple Subsidiaries",
+        "total_results": 57900000,
+        "time_taken_displayed": 0.27,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "knowledge_graph": {
+        "title": "Apple",
+        "type": "Technology company",
+        "entity_type": "companies, chains, shopping_merchant",
+        "kgmid": "/m/0k8z",
+        "knowledge_graph_search_link": "https://www.google.com/search?kgmid=/m/0k8z&hl=en-US&q=Apple",
+        "serpapi_knowledge_graph_search_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en-US&kgmid=%2Fm%2F0k8z&q=Apple",
+        "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdd962d27ad462ab3c.png",
+        "description": "Apple Inc. is an American multinational corporation and technology company headquartered in Cupertino, California, in Silicon Valley. It is best known for its consumer electronics, software, and services.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Apple_Inc."
+        },
+        "customer_service": "1 (800) 275-2273",
+        "founders": "Steve Jobs, Steve Wozniak, Ronald Wayne",
+        "founders_links": [
+            {
+                "text": "Steve Jobs",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Steve+Jobs&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMoI2zuY5Bl5Y7Iu52EvXs8BbkggSQKcpcuMGYZOzGiazet6pBa6opgPvqobj9Ncxdnm0-yyqWv4KsTAvGMVpIhrxrGZg6EY5vpiiJ_PUwhWEdAwwxORGmE_atC9jo9WkTo4aIaomFfZrEbpqiNcjl6nAmMkwMpQSrPiJ0jBAIlY9BdygQaaZ5c4LELn12pd5uKZH-WZGJkmdlkQEH3LaWRdJamow&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAhBEAI"
+            },
+            {
+                "text": "Steve Wozniak",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Steve+Wozniak&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMoYdqSrjEnaIzHa1Vo92R21NB50YCznwTEVm-U9RJPNbcTZ9QJmQya_m--oCWbBDPEKqQ_MWgnCfWVwIgDgbCmwDLr6asRCux0XRV-hbqg9iu8rxVSaHZsJcuemuc0LUwbpoxgd0arSnoqhrqWmGHVAK3Z8nUY7_IqkSGJHMkXjRy5Uvm-aj-Z6CuQbeCXswIxgy1_nRpVSfgD3lVzbYC3FocSPL&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAhBEAM"
+            },
+            {
+                "text": "Ronald Wayne",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Ronald+Wayne&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35LZQQX08mS3ODNof9YdP9XVp1tKIhgDabLz-Ckuv64LMU9-VkjE2M-CUUCTZSGMvVEIPC6rrmf7lY52jIe34rH-sfXrGkXLVkCmaZsAMNXGccAE1rzju3cljizy2KjxScl38f9HFruC7QD-SQ81i6gaRtV7bjToocjus8FpAtv2hNmt9alhkOYcP37mGEmzAWZlOkzNhbTfAQVVtFuYOPaDZMpfM&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAhBEAQ"
+            }
+        ],
+        "founded": "April 1, 1976, Los Altos, CA",
+        "founded_links": [
+            {
+                "text": "Los Altos, CA",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Los+Altos&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMnVGr9gZLDD_BKMj_vYG3zb7lOnXyc0EslJqYVV9YYKxwJn9rTmXrMCXLm0od1EGKOh0LCjQYecFHwundI1b9XRutE-tBK29kflyAxH-68iVGAOqB9-Ex09g7nvx9VVjxRnc3bEzG9yHdwTCUvL8-nADYagN&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAhAEAI"
+            }
+        ],
+        "headquarters": "Cupertino, CA",
+        "headquarters_links": [
+            {
+                "text": "Cupertino, CA",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Cupertino&si=AMgyJEvmed8FkyEkpEJ8jfGhZkakcy5kQho_c4G-QJRdklshMgzOc5B5ufYF5PdHwtn12zYFQjwQzeAx55zisMq_Gy_vWlxRoFWpdde_voDBXIQ4_9u42luZginnHk0G-uELNIggMMwKjn9tbFbXHQ0L1Cru7CaZb2IUTocb1VvHt8u5XeUfoLnH2AxX7JaNzUIVaR6GjuyS&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAg9EAI"
+            }
+        ],
+        "stock_price": "AAPL (NASDAQ) $211.16 -1.25 (-0.59%)Jul 11, 4 - 00 PM EDT - Disclaimer",
+        "stock_price_links": [
+            {
+                "text": "AAPL",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=NASDAQ:+AAPL&stick=H4sIAAAAAAAAAONgecRoyi3w8sc9YSmdSWtOXmNU4-IKzsgvd80rySypFJLgYoOy-KR4uLj0c_UNzKtyk8rSeBax8vg5Brs4BlopODoG-AAAo_3cUkkAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQsRV6BAg8EAI"
+            },
+            {
+                "text": "Disclaimer",
+                "link": "https://www.google.com/intl/en-US_US/googlefinance/disclaimer/"
+            }
+        ],
+        "ceo": "Tim Cook (Aug 24, 2011–)",
+        "ceo_links": [
+            {
+                "text": "Tim Cook",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Tim+Cook&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35NeRaB_1YYILZ6UKGgRton1Xin06WqzqHvBaPBCVtNBUD1PK9lciusmYyCytKDkgC14FzZbLw8GQDkY9cRa096svfbHL2DyaVUzGvMi7bFIZE2pBM9Lf286xCj0yrMZjJdfU8cYgOXgluRFE0jOEhnO_DDoN&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAg6EAI"
+            }
+        ],
+        "subsidiaries": [
+            {
+                "name": "Apple Store",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Store&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuIEMYwyyotytDQzyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYqvi0qTizJTMxKLM1OJHjKHcAi9_3BOW8pm05uQ1Rjcu4vUKiXKxueaVZJZUCnFLcXLBHFLFxMHIs4iV27GgICdVIbgkvyh1AhsjAHviVliqAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEAY",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Store&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuIEMYwyyotytDQzyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYqvi0qTizJTMxKLM1OJHjKHcAi9_3BOW8pm05uQ1Rjcu4vUKiXKxueaVZJZUCnFLcXLBHFLFxMHIs4iV27GgICdVIbgkvyh1AhsjAHviVliqAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e11bcf3a15bc310bc49658edd87e904f8.png"
+            },
+            {
+                "name": "Beats Electronics",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Beats+Electronics&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMSzLzI2KSrQ0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIVdApNbGkWMEVZE5Rfl5mcvEENkYABD4igbEAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Beats+Electronics&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMSzLzI2KSrQ0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIVdApNbGkWMEVZE5Rfl5mcvEENkYABD4igbEAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e0926e2dc73ad739495025b26259940ef.png"
+            },
+            {
+                "name": "Apple Studios",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Studios&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NCwwNLOsKqq00NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWXseCgpxUheCS0pTM_OIJbIwAGLDncLAAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEBA",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Studios&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NCwwNLOsKqq00NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWXseCgpxUheCS0pTM_OIJbIwAGLDncLAAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e019a0c19800424c6f3736ec43617e7ad.png"
+            },
+            {
+                "name": "Beddit",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Beddit&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyprKjKKc8p1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWNqfUlJTMkglsjACkTMLGqQAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEBU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Beddit&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyprKjKKc8p1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWNqfUlJTMkglsjACkTMLGqQAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e952a2a6b7a4549e550abf806ec80bb0f.png"
+            },
+            {
+                "name": "RAC7",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=RAC7&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEw2y0nOMszN0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWliBHZ_MJbIwAkY3vaqcAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEBo",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=RAC7&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEw2y0nOMszN0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWliBHZ_MJbIwAkY3vaqcAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e13660f895ddc2b2a7775bac30da5b5c4.png"
+            },
+            {
+                "name": "Braeburn Capital",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Braeburn+Capital&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuIEMZLTMpJNtTQzyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYqvi0qTizJTMxKLM1OJHjKHcAi9_3BOW8pm05uQ1Rjcu4vUKiXKxueaVZJZUCnFLcXLBHFLFxMHIs4hVwKkoMTWptChPwTmxILMkMWcCGyMAfShEEa8AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEB8",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Braeburn+Capital&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuIEMZLTMpJNtTQzyq30k_NzclKTSzLz8_Tzi9IT8zKrEkGcYqvi0qTizJTMxKLM1OJHjKHcAi9_3BOW8pm05uQ1Rjcu4vUKiXKxueaVZJZUCnFLcXLBHFLFxMHIs4hVwKkoMTWptChPwTmxILMkMWcCGyMAfShEEa8AAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754ee465824f9488d6f84958cfe6c737bab7.png"
+            },
+            {
+                "name": "InVisage Technologies",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=InVisage+Technologies&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuIGMQwNTLPTLDO0NDPKrfST83NyUpNLMvPz9POL0hPzMqsSQZxiq-LSpOLMlMzEoszU4keModwCL3_cE5bymbTm5DVGNy7i9QqJcrG55pVkllQKcUtxcsGcUsXEwciziFXUMy8sszgxPVUhJDU5Iy8_Jz8dqGcCGyMAv61_ibYAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSECQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=InVisage+Technologies&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuIGMQwNTLPTLDO0NDPKrfST83NyUpNLMvPz9POL0hPzMqsSQZxiq-LSpOLMlMzEoszU4keModwCL3_cE5bymbTm5DVGNy7i9QqJcrG55pVkllQKcUtxcsGcUsXEwciziFXUMy8sszgxPVUhJDU5Iy8_Jz8dqGcCGyMAv61_ibYAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e3dec56f646804c73606c63915b0005e1.jpeg"
+            },
+            {
+                "name": "NextVR, Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=NextVR,+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEw3Nog3Tsu21NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWHr_UipKwIB0Fz7xkvQlsjABZz-q4rwAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSECk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=NextVR%2C+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEw3Nog3Tsu21NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWHr_UipKwIB0Fz7xkvQlsjABZz-q4rwAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754ece2fdaeaae15dae3ebd243a02fd4d79b.png"
+            },
+            {
+                "name": "AuthenTec",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=AuthenTec&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMYwLjHNT4rU0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIldOxtCQjNS8kNXkCGyMALw4xZqkAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEC4",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AuthenTec&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMYwLjHNT4rU0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIldOxtCQjNS8kNXkCGyMALw4xZqkAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e129c62dac044228a953deb275839ae4f.jpeg"
+            },
+            {
+                "name": "Itunes K.K.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Itunes+K.K.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDMuKTGs0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWbs-S0rzUYgVvPW-9CWyMAAMn8feuAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEDM",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Itunes+K.K.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDMuKTGs0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWbs-S0rzUYgVvPW-9CWyMAAMn8feuAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e86c5ba4265350aebf483f5c0c9c274ca.png"
+            },
+            {
+                "name": "DarwinAI Corp.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=DarwinAI+Corp.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEzLKMw2Nysy1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWPpfEovLMPEdPBef8ogK9CWyMAI4eOtSxAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEDg",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=DarwinAI+Corp.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEzLKMw2Nysy1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWPpfEovLMPEdPBef8ogK9CWyMAI4eOtSxAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e48982a3acfc745b474dc3d221fe27c55.png"
+            },
+            {
+                "name": "Apple Asia Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Asia+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zLOsNK3K1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWIceCgpxUBcfizEQFn8zczJLUlAlsjAAdDaSQtQAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSED0",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Asia+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zLOsNK3K1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWIceCgpxUBcfizEQFn8zczJLUlAlsjAAdDaSQtQAAAA",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fdaab0ffe4e259754e904b1f834e63224abe29931ee9c0b13a.jpeg"
+            },
+            {
+                "name": "Apple Operations International Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Operations+International+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMEyuNCnI0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWNceCgpxUBf-C1CKIXgXPvJLUojwwJzFHwSczN7MkNWUCGyMAfAOAHMkAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEEI",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Operations+International+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMEyuNCnI0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWNceCgpxUBf-C1CKIXgXPvJLUojwwJzFHwSczN7MkNWUCGyMAfAOAHMkAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThj4AWUT8NB0uoZW34lXcv5vpMIVOJ0h5atZC&s=0"
+            },
+            {
+                "name": "Apple Pty Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Pty+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNCwrMikr0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWQceCgpxUhYCSSgWfzNzMktSUCWyMALBZGZ60AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEEc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Pty+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNCwrMikr0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWQceCgpxUhYCSSgWfzNzMktSUCWyMALBZGZ60AAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2I8OdHRiQLkGcsAkr7BKiMN3NI-rd3DAQyywL&s=0"
+            },
+            {
+                "name": "Fleetsmith, Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Fleetsmith,+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNDIuzqtI0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAbec1NSS4tzMkgwdBc-8ZL0JbIwAUP6FhLMAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEEw",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Fleetsmith%2C+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNDIuzqtI0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAbec1NSS4tzMkgwdBc-8ZL0JbIwAUP6FhLMAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8IfLDeck0WEKUBySQj_y_-z93zZcw7VGLmGqk&s=0"
+            },
+            {
+                "name": "XNOR.AI, Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=XNOR.AI,+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNCzOKUkv0dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJW3gg__yA9R08dBc-8ZL0JbIwAnXxlPbAAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEFE",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=XNOR.AI%2C+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNCzOKUkv0dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJW3gg__yA9R08dBc-8ZL0JbIwAnXxlPbAAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgO24S6zqOE6jaqX0fCCQYz3qXM9Dl61EcvTsi&s=0"
+            },
+            {
+                "name": "Mobeewave Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Mobeewave+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDPJLc6x0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWPt_8pNTU8sSyVAXPvGS9CWyMAJuj7OGxAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEFY",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Mobeewave+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDPJLc6x0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWPt_8pNTU8sSyVAXPvGS9CWyMAJuj7OGxAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSO69GWGhpU4xLth5QePHYNXeLDsc3GqumAQ1HB&s=0"
+            },
+            {
+                "name": "Platoon Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Platoon+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMwwrDQxManI0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJW_oCcxJL8_DwFn8zczJLUlAlsjAAtjMhRsgAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEFs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Platoon+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMwwrDQxManI0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJW_oCcxJL8_DwFn8zczJLUlAlsjAAtjMhRsgAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMoTz3ygv4d6yJuFl1MQVrArGVa_ePT1oAmUGA&s=0"
+            },
+            {
+                "name": "Apple Computer South Asia Pte Ltd.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Computer+South+Asia+Pte+Ltd.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zC02TCou09LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWJceCgpxUBef83ILSktQiheD80pIMBcfizESFgJJUBZ-SFL0JbIwABWh0H8UAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEGA",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Computer+South+Asia+Pte+Ltd.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zC02TCou09LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWJceCgpxUBef83ILSktQiheD80pIMBcfizESFgJJUBZ-SFL0JbIwABWh0H8UAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2H1R0B_liyBw3LJEZ7xflY7o8AbG9inUvmVDy&s=0"
+            },
+            {
+                "name": "Inductiv Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Inductiv+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMwyK8_IKy8019LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWXs-8lFKgEWUKnnnJehPYGAHAa1UPsAAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEGU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Inductiv+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMwyK8_IKy8019LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWXs-8lFKgEWUKnnnJehPYGAHAa1UPsAAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwIuSiUID99_U3tr-zd8h0rcqA3jhDH92uARrf&s=0"
+            },
+            {
+                "name": "Apple Retail Germany B.V. & Co. KG",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Retail+Germany+B.V.+%26+Co.+KG&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMwtzC4oNDIy0dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWJceCgpxUhaDUksTMHAX31KLcxLxKBSe9MD0FNQXnfD0Fb_cJbIwAYrFhXMUAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEGo",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Retail+Germany+B.V.+%26+Co.+KG&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMwtzC4oNDIy0dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWJceCgpxUhaDUksTMHAX31KLcxLxKBSe9MD0FNQXnfD0Fb_cJbIwAYrFhXMUAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRm-0RfdZR_fH90lhIR_tG18IBJ95TvPP3tniJ1&s=0"
+            },
+            {
+                "name": "Apple Operations Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Operations+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEzLKMw1NMpN0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWCceCgpxUBf-C1CKIXgWfzNzMktSUCWyMAFHaF3q7AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEG8",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Operations+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEzLKMw1NMpN0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWCceCgpxUBf-C1CKIXgWfzNzMktSUCWyMAFHaF3q7AAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Retail Italia S.r.l.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Retail+Italia+S.r.l.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNKyqtDSx1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWKceCgpxUhaDUksTMHAXPksSczESFYL0ivRy9CWyMAGW_GFq9AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEHQ",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Retail+Italia+S.r.l.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNKyqtDSx1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWKceCgpxUhaDUksTMHAXPksSczESFYL0ivRy9CWyMAGW_GFq9AAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMbxFTrQMZShao8R0_M7N41JLkL78IXzTQSLO&s=0"
+            },
+            {
+                "name": "Apple Sales International",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Sales+International&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMSxzLbJSTLQ0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIVdKxoCAnVSE4MSe1WMEzryS1KA9sRmLOBDZGAICNPp25AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEHk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Sales+International&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMSxzLbJSTLQ0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIVdKxoCAnVSE4MSe1WMEzryS1KA9sRmLOBDZGAICNPp25AAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdKXAquYj3rGhzwyHBlR-HKwdgJUynHfY0rbjh&s=0"
+            },
+            {
+                "name": "Apple Retail France Eurl",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Retail+France+Eurl&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDQ0N7M00dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWCceCgpxUhaDUksTMHAW3osS85FQF19KinAlsjABNZ0NJuwAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BAhSEH4",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Retail+France+Eurl&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDQ0N7M00dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWCceCgpxUhaDUksTMHAW3osS85FQF19KinAlsjABNZ0NJuwAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwUC2gUb924uvLGypDEp4vIAvjkEMcMGQzlSf&s=0"
+            },
+            {
+                "name": "Me.com",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Me.com&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMYyTipONDLQ0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIlc03VS85P3cCGyMA9fZFC6YAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEIMB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Me.com&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMYyTipONDLQ0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIlc03VS85P3cCGyMA9fZFC6YAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Energy LLC",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Energy+LLC&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDSzMEnJ09LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAceCgpxUBde81KL0SgUfH-cJbIwA5-kVP7MAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEIgB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Energy+LLC&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDSzMEnJ09LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAceCgpxUBde81KL0SgUfH-cJbIwA5-kVP7MAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOTQ47oR6aH7qi2ILoXI9hZwNgKD2_OB4Bony6&s=0"
+            },
+            {
+                "name": "Apple Payments Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Payments+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMxONjZIKokv1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWYceCgpxUhYDEytzUvJJiBc-8ZL0JbIwA_Ag-5LYAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEI0B",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Payments+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMxONjZIKokv1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWYceCgpxUhYDEytzUvJJiBc-8ZL0JbIwA_Ag-5LYAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT715jC0tkNQ-s49HCiy4SRqUFRFBFljAGrrHmg&s=0"
+            },
+            {
+                "name": "IM-Sense Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=IM-Sense+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDMqMDAq1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAU9f3eDUvOJUBZ_M3MyS1JQJbIwAJvbrtbMAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEJIB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IM-Sense+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDMqMDAq1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAU9f3eDUvOJUBZ_M3MyS1JQJbIwAJvbrtbMAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Italia Srl",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Italia+Srl&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMExLNipI0dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAceCgpxUBc-SxJzMRIXgopwJbIwAYGqW2bMAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEJcB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Italia+Srl&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMExLNipI0dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAceCgpxUBc-SxJzMRIXgopwJbIwAYGqW2bMAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Japan, Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Japan,+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNDJJTyoo0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWQceCgpxUBa_EgsQ8HQXPvGS9CWyMABnFVSi0AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEJwB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Japan%2C+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNDJJTyoo0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWQceCgpxUBa_EgsQ8HQXPvGS9CWyMABnFVSi0AAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Lattice Data, Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Lattice+Data,+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMExKsUwq1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWIZ_EkpLM5FQFl8SSRB0Fz7xkvQlsjABdn2xFtQAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEKEB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Lattice+Data%2C+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMExKsUwq1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWIZ_EkpLM5FQFl8SSRB0Fz7xkvQlsjABdn2xFtQAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE0aQbCZvIdW-Rgf4q8uNPIdkKpZDf91pDRrLv&s=0"
+            },
+            {
+                "name": "Apple Operations Europe",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Operations+Europe&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNEqySMsr1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWcceCgpxUBf-C1CKIXgXX0qL8gtQJbIwAiJj7LLoAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEKYB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Operations+Europe&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNEqySMsr1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWcceCgpxUBf-C1CKIXgXX0qL8gtQJbIwAiJj7LLoAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYRWFeg2pqnO39gQp58N8SE3zrHnep4qdpAigJ&s=0"
+            },
+            {
+                "name": "Apple Distribution International",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Distribution+International&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDTNyTUo19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWBceCgpxUBZfM4pKizKRSkHYFz7yS1KI8sFGJORPYGAGVZY50wwAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEKsB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Distribution+International&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDTNyTUo19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWBceCgpxUBZfM4pKizKRSkHYFz7yS1KI8sFGJORPYGAGVZY50wwAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_5igalZuNZY8BOSu2ZTwTLsKChzW6gKJPmevr&s=0"
+            },
+            {
+                "name": "Apple Aktiebolag",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Aktiebolag&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zI03zM5K19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAceCgpxUBcfskszUpPycxPQJbIwAGxChwbMAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSELAB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Aktiebolag&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zI03zM5K19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAceCgpxUBcfskszUpPycxPQJbIwAGxChwbMAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Payments Services Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Payments+Services+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMEzOSTPL1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWeceCgpxUhYDEytzUvJJiheDUorLM5NRiBZ_M3MyS1JQJbIwAR8351cIAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSELUB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Payments+Services+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMEzOSTPL1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWeceCgpxUhYDEytzUvJJiheDUorLM5NRiBZ_M3MyS1JQJbIwAR8351cIAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Value Services, LLC",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Value+Services,+LLC&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMxJL84xMCjP1dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWSceCgpxUhbDEnNJUheDUorLM5NRiHQUfH-cJbIwAlhDtcrwAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSELoB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Value+Services%2C+LLC&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMxJL84xMCjP1dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWSceCgpxUhbDEnNJUheDUorLM5NRiHQUfH-cJbIwAlhDtcrwAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "IKinema Ltd.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=IKinema+Ltd.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zI0vMslL0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWHk_vzLzU3EQFn5IUvQlsjAB-tN9lrwAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEL8B",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=IKinema+Ltd.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zI0vMslL0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWHk_vzLzU3EQFn5IUvQlsjAB-tN9lrwAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJSpVc2fAc_uO4L5mQZQLGKFgchhQER0QuQq4E&s=0"
+            },
+            {
+                "name": "Apple Vietnam Limited Liability Company",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Vietnam+Limited+Liability+Company&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NCzJqiquSi831dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWdceCgpxUhbDM1JK8xFwFn8zczJLUFCCdmJSZA9Sj4JyfW5CYVzmBjREAq91ClsoAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEMQB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Vietnam+Limited+Liability+Company&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NCzJqiquSi831dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWdceCgpxUhbDM1JK8xFwFn8zczJLUFCCdmJSZA9Sj4JyfW5CYVzmBjREAq91ClsoAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Computer Brasil Ltda",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Computer+Brasil+Ltda&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDPKzTY01NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWKceCgpxUBef83ILSktQiBaeixOLMHAWfkpTECWyMAJQPTK-9AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEMkB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Computer+Brasil+Ltda&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDPKzTY01NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWKceCgpxUBef83ILSktQiBaeixOLMHAWfkpTECWyMAJQPTK-9AAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "The Dark Sky Company",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=The+Dark+Sky+Company&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMwyLSwrNi5L19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWkZCMVAWXxKJsheDsSgXn_NyCxLzKCWyMAJtEkoi3AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEM4B",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=The+Dark+Sky+Company&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NMwyLSwrNi5L19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWkZCMVAWXxKJsheDsSgXn_NyCxLzKCWyMAJtEkoi3AAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Asia LLC",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Asia+LLC&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDQxKy4z09LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWPseCgpxUBcfizEQFHx_nCWyMAJoGqO2xAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSENMB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Asia+LLC&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDQxKy4z09LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWPseCgpxUBcfizEQFHx_nCWyMAJoGqO2xAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple India Private Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+India+Private+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMMwyzi0o1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWaceCgpxUBc88oGqFgKLMssSSVAWfzNzMktSUCWyMACEPET--AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSENgB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+India+Private+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMMwyzi0o1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWaceCgpxUBc88oGqFgKLMssSSVAWfzNzMktSUCWyMACEPET--AAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple GmbH",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+GmbH&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDQyM8qp0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWLseCgpxUBffcJI8JbIwAADm0LK0AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEN0B",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+GmbH&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMDQyM8qp0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWLseCgpxUBffcJI8JbIwAADm0LK0AAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Spectral Edge Ltd",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Spectral+Edge+Ltd&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNKzIyDDO09LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWweACoAlFiTkKrinpqQo-JSkT2BgBaYIrUbQAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEOIB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Spectral+Edge+Ltd&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNKzIyDDO09LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWweACoAlFiTkKrinpqQo-JSkT2BgBaYIrUbQAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ0bb6TBgeLrDfZVMzCQTBeVhf8weKbAxp2Cwn&s=0"
+            },
+            {
+                "name": "Apple Multimedia Lab",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Multimedia+Lab&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMYwKy4yN07Q0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIVcSxoCAnVcG3NKckMzcVqEXBJzFpAhsjAOoKeyq0AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEOcB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Multimedia+Lab&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuICMYwKy4yN07Q0M8qt9JPzc3JSk0sy8_P084vSE_MyqxJBnGKr4tKk4syUzMSizNTiR4yh3AIvf9wTlvKZtObkNUY3LuL1ColysbnmlWSWVApxS3FywVxSxcTByLOIVcSxoCAnVcG3NKckMzcVqEXBJzFpAhsjAOoKeyq0AAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbea-a4Hc-HPZSdTLOdQqCw9E6alpGkd5aASfQ&s=0"
+            },
+            {
+                "name": "Apple South Asia Thailand Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+South+Asia+Thailand+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDM2qDQv1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWRceCgpxUheD80pIMBcfizESFkIzEzJzEvBQFn8zczJLUlAlsjADcvaw0xAAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEOwB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+South+Asia+Thailand+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zDM2qDQv1NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWRceCgpxUheD80pIMBcfizESFkIzEzJzEvBQFn8zczJLUlAlsjADcvaw0xAAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Operations Mexico, S.A. De C.V.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Operations+Mexico,+S.A.+De+C.V.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zEsqMInP1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWVceCgpxUBf-C1CKIXgXf1IrM5HwdhWA9Rz0Fl1QFZ70wvQlsjAAsrShWyAAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEPEB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Operations+Mexico%2C+S.A.+De+C.V.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEy3zEsqMInP1tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWVceCgpxUBf-C1CKIXgXf1IrM5HwdhWA9Rz0Fl1QFZ70wvQlsjAAsrShWyAAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Apple Canada, Inc.",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Canada,+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMCizzLXI1dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWIceCgpxUBefEvMSURB0Fz7xkvQlsjAAGiIMltQAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEPYB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Canada%2C+Inc.&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEwzMCizzLXI1dLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWIceCgpxUBefEvMSURB0Fz7xkvQlsjAAGiIMltQAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "AI Music Limited",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=AI+Music+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEzLKMxKqkwp19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAUdPBd_S4sxkBZ_M3MyS1JQJbIwAWf7467MAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEPsB",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=AI+Music+Limited&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEzLKMxKqkwp19LMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJWAUdPBd_S4sxkBZ_M3MyS1JQJbIwAWf7467MAAAA",
+                "image": "https://www.gstatic.com/knowledgecard/default-120.png"
+            },
+            {
+                "name": "Vilynx Spain SL",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Vilynx+Spain+SL&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNCyrzDAw0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJW_rDMnMq8CoXggsTMPIVgnwlsjACkgYQ8sgAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ-BZ6BQhSEIAC",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Vilynx+Spain+SL&stick=H4sIAAAAAAAAAONgFmLXz9U3yLaoUuLVT9c3NEyrNCyrzDAw0NLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sfMYZyC7z8cU9YymfSmpPXGN24iNcrJMrF5ppXkllSKcQtxckFc0wVEwcjzyJW_rDMnMq8CoXggsTMPIVgnwlsjACkgYQ8sgAAAA",
+                "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZmbEzJALuaVrpNRT4srlysjtnLiESY9sgpR3F&s=0"
+            }
+        ],
+        "subsidiaries_links": [
+            {
+                "text": "Apple Store",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Store&si=AMgyJEveiRpRWbYSNPkEPxCUbItHSvun4xkRgDDPLmrOjDx35IxVyv207TLzuTLzNujvz2fT6zjqCjb0a59fvbeFyDDG9ExSlLo-1Nb2zvyXPylxi1VJ0cEVKTeotEEcOmEHNMdvg70LH9JTfgqb6xsSqpX-u7ris-EJCiUsSfdz0IChl9UPY1y0ZETGXNANUCLiYt5EN-xfkIt0HJ6nQkyg4swAgMj4XoRBY2-7Zmte6WkAduhYTuPphErNDdfEEvuc51tBaZfL71WsURA0QKjqlQXIOss1rw%3D%3D&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAhFEAI"
+            },
+            {
+                "text": "Beats Electronics",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Beats+Electronics&si=AMgyJEtRPX4ld4pdQeltMBlsXK6YnLg9be4xryEBJwXFHLOO-BYRlPh7qMWOvqqLvzZxBa2zaG617BXwh1velVQV8-L-zOEBdWte9zXfoxCQjgBehqjbI-Ni4NDCThUMWkeQJ3o5-opF86gNn6UFvuQnyWypRlyTfvwrVSF-uCY1mYOcfv7RK00NU9HciImm_CkyWmv6ligIgYnPtvZ2IeqK9yh9sUApkU0DsHR4XjC7yN-eDhWawuDZIJiNIhcgOms_7Jl6bJQmzDUWT1Ae_8iVo7zX-08OYuaT820_RAbTkizigZB1C7A%3D&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAhFEAM"
+            },
+            {
+                "text": "Apple Studios",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+Studios&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNaCafplnUUhHwy9rqszdMDCPTS2soKwG_Qmp3K_DnxcKlGYZN85Zni8lnKbdnRzD0h3A_OBSByjr520TCncFjJjTS-8KpPhJ1QkOBhcYPx7l7GNqqMUcaw5uGAA59FS5FqkSC4HELJTq9QRZeAqdQ_lXtRsICqwGZXlT_b5hV1PEI3rwbitw73_8N_przaWUpSP9ycetzx3tbi3rrSSthQSPRpjrQdqkZHFSPZhyWGjxqxPIGkGtvkO5lzDcYeWL6MjoXF0%3D&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAhFEAQ"
+            },
+            {
+                "text": "Beddit",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Beddit&si=AMgyJEs9DArPE9xmb5yVYVjpG4jqWDEKSIpCRSjmm88XZWnGNTK-oL0IGnhNfQS1KNTGxdsg6nyzE8Oml110TzoQE8ZmHDfTCvlEBgj5WN-e7Obj7AVRtAkXVVPX_d65L5rS9qHWle5U6nZdt7ieexQfN8jJBz5JiH2DZtoTJU7Y59F-G0K11-uS79EUpBi0_IP6hkFwEKEsfibp4WeK-mnjnU5ErthiDh04Ltgb40jjak-huuWHMxVmQHiZvMp0XTG3mamQOQcC5ceQu3Rgl2LKPTuoK7MrtQ%3D%3D&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQmxN6BAhFEAU"
+            },
+            {
+                "text": "See more",
+                "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=apple+subsidiaries&stick=H4sIAAAAAAAAAOPgE2LXz9U3yLao0tLMKLfST87PyUlNLsnMz9PPL0pPzMusSgRxiq2KS5OKM1MyE4syU4sXsQolFhTkpCogCwIA5Lzur0sAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ44YBegQIRRAG"
+            }
+        ],
+        "profiles": [
+            {
+                "name": "YouTube",
+                "link": "https://www.youtube.com/user/Apple",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fda95f86f0eaf94502d6594d082b070ee9344c9bdf798e5a0f.png"
+            },
+            {
+                "name": "Instagram",
+                "link": "https://www.instagram.com/apple",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fda95f86f0eaf94502ac4ce734e2122e9a07283cce5cdcebbe.png"
+            },
+            {
+                "name": "Facebook",
+                "link": "https://www.facebook.com/apple",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fda95f86f0eaf94502a88a4219642c213fd1a6d2016c0f7523.png"
+            },
+            {
+                "name": "X (Twitter)",
+                "link": "https://x.com/Apple",
+                "image": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6888a9e99b7c29df9848ab4e0617b2fda95f86f0eaf945024bc2a59fd499ef18fb3d6021b2350e87.png"
+            }
+        ]
+    },
+    "inline_images": [
+        {
+            "source": "https://www.reddit.com/r/Infographics/comments/1fqxhu0/everything_owned_by_apple/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgQT2VpYP6WQPPUpiBTPcOqBMqDkU4a1-Bh6p0Q8Gaws6jZiLEFmNvE-w&s",
+            "original": "https://external-preview.redd.it/everything-owned-by-apple-v0-7SXLlGX4cBcvbblURfeB3RQ0OgXAKd0qvA6kNsXJc3U.png?auto=webp&s=da64d49650c3953ad91ba753ebb1e06c2cc224e4",
+            "title": "Everything owned by Apple. : r/Infographics",
+            "source_name": "Reddit"
+        },
+        {
+            "source": "https://medium.com/welltory/what-vcs-should-you-choose-to-be-acquired-by-apple-dbd226189491",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZclFTdIf8DLofPtfV8xw3DFeGBq_JQfgC2_XDBfnQXacXtwfU7toPwQc&s",
+            "original": "https://miro.medium.com/v2/resize:fit:498/1*6bYeAVR618YL4pLMjrbMcw.png",
+            "title": "10 VCs to look for to be acquired by Apple | by Welltory ...",
+            "source_name": "Medium"
+        },
+        {
+            "source": "https://startuptalky.com/apples-key-acquisitions/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YLhGkn-jazLy3mGTSAch4N5tgQ3RX5vBe_4X5ZDrsCB3stCggUbjxwc&s",
+            "original": "https://static.startuptalky.com/2023/04/Apple-s-Key-Acquisitions-StartupTalky.jpg",
+            "title": "Key Acquisitions by Apple: Driving Innovation and Success",
+            "source_name": "StartupTalky"
+        },
+        {
+            "source": "https://fxssi.com/most-valuable-tech-companies",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEDMj2QzFtAQkvQ_qg_g3duFzyoBCZvDuLFiiDvFOnJ45rf2KmAVIghk&s",
+            "original": "https://wp.fxssi.com/wp-content/uploads/2020/03/Apple_Acq.png",
+            "title": "ᐉ Top 10 Most Valuable Tech Companies in The World in 2025 ...",
+            "source_name": "FXSSI"
+        },
+        {
+            "source": "https://www.statista.com/chart/26812/most-valuable-companies-on-each-continent/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsdTib0XD5ZJXFXKhWoCsekjkjZYABG90gzJlIQWZb6q5ldfY8mD9_ZT4&s",
+            "original": "http://cdn.statcdn.com/Infographic/images/normal/26812.jpeg",
+            "title": "Chart: Apple vs. the World | Statista",
+            "source_name": "Statista"
+        },
+        {
+            "source": "https://howmuch.net/articles/worlds-largest-public-companies-2018",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8trNVP0-mGUhAuOXCp6rRpelQahRL-_rxl3von11XQKn1aXuwu15woNM&s",
+            "original": "https://cdn.howmuch.net/articles/116_cover-0103.jpg",
+            "title": "Apple, on the Verge of a $1 Trillion Valuation, Dominates ...",
+            "source_name": "HowMuch.net"
+        },
+        {
+            "source": "https://businessmodelanalyst.com/apple-competitors/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf0Dbl3KKxhGGHd-J4un8XT-Gh7ITy_3eMyGgvh_Y4Jtj4rc-Vv9FNb9M&s",
+            "original": "https://businessmodelanalyst.com/wp-content/uploads/2024/07/Apple-Competitors.jpg",
+            "title": "Top 20 Apple Competitors and Alternatives (2025)",
+            "source_name": "Business Model Analyst"
+        },
+        {
+            "source": "https://www.statista.com/chart/29237/apple-services-sales-compared-to-fortune-500-companies/",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTisvKMrJB7BMASORlT_UcCNRD5ePVGiwNf63GmwLJdl4c3rh42RVQBMUc&s",
+            "original": "http://cdn.statcdn.com/Infographic/images/normal/29237.jpeg",
+            "title": "Chart: Apple Services: A Beast of Its Own | Statista",
+            "source_name": "Statista"
+        },
+        {
+            "source": "https://blog.syzgroup.com/syz-the-moment/apple-aapl-is-in-a-league-of-its-own",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTULP249qGnFmP0gPoZSAXW1Pr_De76nyu1HmBVPtrk8elra4xKZpCIJIk&s",
+            "original": "https://blog.syzgroup.com/hubfs/the%20size%20of%20apple.jpg",
+            "title": "Apple ($AAPL) is in a league of its own",
+            "source_name": "Syz Blog - Syz Group"
+        }
+    ],
+    "related_questions": [
+        {
+            "question": "Which companies does Apple own?",
+            "type": "featured_snippet",
+            "snippet": null,
+            "title": "What companies does Apple own?",
+            "link": "https://www.forex.com/ie/market-analysis/latest-research/apple-acquisition-history/",
+            "list": [
+                "Beats Electronics. 2014. Consumer Electronics, Hardware, Manufacturing, Media and Entertainment, Music and Software. ... ",
+                "Intel Smartphone Modem Business. 2019. Hardware. ... ",
+                "Dialog Semiconductor. 2018. Semiconductor. ... ",
+                "Anobit Technologies. 2011. ... ",
+                "Texture. 2018. ... ",
+                "Shazam. 2017. ... ",
+                "NeXT. 1996. ... ",
+                "PrimeSense. 2013."
+            ],
+            "displayed_link": "https://www.forex.com › apple-acquisition-history",
+            "source_logo": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6afb43400d5fbec1f83e0ccfdc349817cbbf419bb50f9bcb824f45013a3c0207.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2NWcFBkekpHV2xCUFVHRm1NblJFZG5kS1dIaFZaM000ZVZoTmJGWlVUVkZzYkdSQmJUVkZWR1JmU0Vsd1JqWk9SV3B6YW1WMmFUZ3pTMVJ2WkhKelZqUlNTRTlSVG1KZlZtMUZjbXBVTTA0M2VGVk5abVJ3Vm5sWVVSSVhjbUYwTUdGTFpXcEJjbWxxTlU1dlVEZHlYMnRwUVdNYUlrRkdUVUZIUjI5SFRYbHllakZ0VEU4Mk1XRkhhMTkyYVhsVE5HcGZaWGt6VjFFIiwiZmN2IjoiMyIsImVpIjoicmF0MGFLZWpBcmlqNU5vUDdyX2tpQWMiLCJxYyI6IkNoSmhjSEJzWlNCemRXSnphV1JwWVhKcFpYTVFBSDNoUXhVXyIsInF1ZXN0aW9uIjoiV2hpY2ggY29tcGFuaWVzIGRvZXMgQXBwbGUgb3duPyIsImxrIjoiR2h4M2FHbGphQ0JqYjIxd1lXNXBaWE1nWkc4Z1lYQndiR1VnYjNkdSIsImJzIjoiYy1OeTRaSVB6OGhNemxCSXpzOHRTTXpMVEMxV1NNa0hFbzRGQlRtcEN2bmxlZllTbThPTTVLUmt5akZVS1NUQzFIQzVBVTNKek1sUmNNa3N6a3V0VkVoS1ZVaktMMDNQS0ZGSXFvU1laQzh4MTh0SVFVcXVIS1FxQllzcXNGbGNWbHlTbnNVS3dSbUpWWW01SUlOVFU1Qk11SmhySkNVbGtWbXNVSXdtRDlIcnc2VVVucEZZb2dCVVVKS1JxbENRV0pTYUJ6UzZLREV2UlNFX0RXYklFVGNqWlNuRmNqd0t3YVlKTUFJQSIsImlkIjoiZmNfcmF0MGFLZWpBcmlqNU5vUDdyX2tpQWNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2NWcFBkekpHV2xCUFVHRm1NblJFZG5kS1dIaFZaM000ZVZoTmJGWlVUVkZzYkdSQmJUVkZWR1JmU0Vsd1JqWk9SV3B6YW1WMmFUZ3pTMVJ2WkhKelZqUlNTRTlSVG1KZlZtMUZjbXBVTTA0M2VGVk5abVJ3Vm5sWVVSSVhjbUYwTUdGTFpXcEJjbWxxTlU1dlVEZHlYMnRwUVdNYUlrRkdUVUZIUjI5SFRYbHllakZ0VEU4Mk1XRkhhMTkyYVhsVE5HcGZaWGt6VjFFIiwiZmN2IjoiMyIsImVpIjoicmF0MGFLZWpBcmlqNU5vUDdyX2tpQWMiLCJxYyI6IkNoSmhjSEJzWlNCemRXSnphV1JwWVhKcFpYTVFBSDNoUXhVXyIsInF1ZXN0aW9uIjoiV2hpY2ggY29tcGFuaWVzIGRvZXMgQXBwbGUgb3duPyIsImxrIjoiR2h4M2FHbGphQ0JqYjIxd1lXNXBaWE1nWkc4Z1lYQndiR1VnYjNkdSIsImJzIjoiYy1OeTRaSVB6OGhNemxCSXpzOHRTTXpMVEMxV1NNa0hFbzRGQlRtcEN2bmxlZllTbThPTTVLUmt5akZVS1NUQzFIQzVBVTNKek1sUmNNa3N6a3V0VkVoS1ZVaktMMDNQS0ZGSXFvU1laQzh4MTh0SVFVcXVIS1FxQllzcXNGbGNWbHlTbnNVS3dSbUpWWW01SUlOVFU1Qk11SmhySkNVbGtWbXNVSXdtRDlIcnc2VVVucEZZb2dCVVVKS1JxbENRV0pTYUJ6UzZLREV2UlNFX0RXYklFVGNqWlNuRmNqd0t3YVlKTUFJQSIsImlkIjoiZmNfcmF0MGFLZWpBcmlqNU5vUDdyX2tpQWNfMSJ9"
+        },
+        {
+            "question": "Will Disney be bought by Apple?",
+            "type": "featured_snippet",
+            "snippet": "There would likely be major regulatory issues, and media mega mergers have a long track record of abject failure and value destruction. Apple's history suggests it stays away from large M&A, and there's little evidence Apple wants to buy Disney.",
+            "title": "Apple buying Disney is unlikely - CNBC",
+            "date": "Sep 6, 2023",
+            "link": "https://www.cnbc.com/2023/09/06/apple-disney-merger-iger.html#:~:text=There%20would%20likely%20be%20major,Apple%20wants%20to%20buy%20Disney.",
+            "displayed_link": "https://www.cnbc.com › apple-disney-merger-iger",
+            "source_logo": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6afb43400d5fbec1f83e0ccfdc34981733ccc54d450e6269da166dc995f3cd43.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2NWcFBkekpHV2xCUFVHRm1NblJFZG5kS1dIaFZaM000ZVZoTmJGWlVUVkZzYkdSQmJUVkZWR1JmU0Vsd1JqWk9SV3B6YW1WMmFUZ3pTMVJ2WkhKelZqUlNTRTlSVG1KZlZtMUZjbXBVTTA0M2VGVk5abVJ3Vm5sWVVSSVhjbUYwTUdGTFpXcEJjbWxxTlU1dlVEZHlYMnRwUVdNYUlrRkdUVUZIUjI5SFRYbHllakZ0VEU4Mk1XRkhhMTkyYVhsVE5HcGZaWGt6VjFFIiwiZmN2IjoiMyIsImVpIjoicmF0MGFLZWpBcmlqNU5vUDdyX2tpQWMiLCJxYyI6IkNoSmhjSEJzWlNCemRXSnphV1JwWVhKcFpYTVFBSDNoUXhVXyIsInF1ZXN0aW9uIjoiV2lsbCBEaXNuZXkgYmUgYm91Z2h0IGJ5IEFwcGxlPyIsImxrIjoiR2g1M2FXeHNJR1JwYzI1bGVTQmlaU0JpYjNWbmFIUWdZbmtnWVhCd2JHVSIsImJzIjoiYy1OeTRaSVB6OGhNemxCSXpzOHRTTXpMVEMxV1NNa0hFbzRGQlRtcEN2bmxlZllTbThPTTVLUmt5akZVS1NUQzFIQzVBVTNKek1sUmNNa3N6a3V0VkVoS1ZVaktMMDNQS0ZGSXFvU1laQzh4MTh0SVFVcXVIS1FxQllzcXNGbGNWbHlTbnNVS3dSbUpWWW01SUlOVFU1Qk11SmhySkNVbGtWbXNVSXdtRDlIcnc2VVVucEZZb2dCVVVKS1JxbENRV0pTYUJ6UzZLREV2UlNFX0RXYklFVGNqWlNuRmNqd0t3YVlKTUFJQSIsImlkIjoiZmNfcmF0MGFLZWpBcmlqNU5vUDdyX2tpQWNfMSJ9",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2NWcFBkekpHV2xCUFVHRm1NblJFZG5kS1dIaFZaM000ZVZoTmJGWlVUVkZzYkdSQmJUVkZWR1JmU0Vsd1JqWk9SV3B6YW1WMmFUZ3pTMVJ2WkhKelZqUlNTRTlSVG1KZlZtMUZjbXBVTTA0M2VGVk5abVJ3Vm5sWVVSSVhjbUYwTUdGTFpXcEJjbWxxTlU1dlVEZHlYMnRwUVdNYUlrRkdUVUZIUjI5SFRYbHllakZ0VEU4Mk1XRkhhMTkyYVhsVE5HcGZaWGt6VjFFIiwiZmN2IjoiMyIsImVpIjoicmF0MGFLZWpBcmlqNU5vUDdyX2tpQWMiLCJxYyI6IkNoSmhjSEJzWlNCemRXSnphV1JwWVhKcFpYTVFBSDNoUXhVXyIsInF1ZXN0aW9uIjoiV2lsbCBEaXNuZXkgYmUgYm91Z2h0IGJ5IEFwcGxlPyIsImxrIjoiR2g1M2FXeHNJR1JwYzI1bGVTQmlaU0JpYjNWbmFIUWdZbmtnWVhCd2JHVSIsImJzIjoiYy1OeTRaSVB6OGhNemxCSXpzOHRTTXpMVEMxV1NNa0hFbzRGQlRtcEN2bmxlZllTbThPTTVLUmt5akZVS1NUQzFIQzVBVTNKek1sUmNNa3N6a3V0VkVoS1ZVaktMMDNQS0ZGSXFvU1laQzh4MTh0SVFVcXVIS1FxQllzcXNGbGNWbHlTbnNVS3dSbUpWWW01SUlOVFU1Qk11SmhySkNVbGtWbXNVSXdtRDlIcnc2VVVucEZZb2dCVVVKS1JxbENRV0pTYUJ6UzZLREV2UlNFX0RXYklFVGNqWlNuRmNqd0t3YVlKTUFJQSIsImlkIjoiZmNfcmF0MGFLZWpBcmlqNU5vUDdyX2tpQWNfMSJ9"
+        },
+        {
+            "question": "Is Shazam owned by Apple?",
+            "type": "ai_overview",
+            "text_blocks": [
+                {
+                    "type": "paragraph",
+                    "snippet": "Yes, Apple acquired Shazam in 2018. Apple announced the acquisition on September 24, 2018, and it was finalized shortly after. Shazam is now part of the Apple family.",
+                    "snippet_highlighted_words": [
+                        "Yes, Apple acquired Shazam in 2018"
+                    ],
+                    "reference_indexes": [
+                        0,
+                        1,
+                        2
+                    ]
+                }
+            ],
+            "references": [
+                {
+                    "title": "Apple acquires Shazam, offering more ways to discover and enjoy music - Apple",
+                    "link": "https://www.apple.com/newsroom/2018/09/apple-acquires-shazam-offering-more-ways-to-discover-and-enjoy-music/",
+                    "snippet": "Sep 24, 2018",
+                    "source": "Apple",
+                    "index": 0
+                },
+                {
+                    "title": "Shazam turns 20 - Apple",
+                    "link": "https://www.apple.com/newsroom/2022/08/shazam-turns-20/#:~:text=Shazam%20turns%2020%20*%20Launched%20in%20the,company%20joined%20the%20Apple%20family%20in%202018.",
+                    "snippet": "Aug 19, 2022 — Shazam turns 20 * Launched in the summer of 2002, Shazam turns 20 this week, and with help from users around the worl...",
+                    "source": "Apple",
+                    "index": 1
+                },
+                {
+                    "title": "Apple Closes Shazam Acquisition, Starts Phasing Out Ads - Variety",
+                    "link": "https://variety.com/2018/digital/news/apple-shazam-acquisition-closed-1202954409/#:~:text=Apple%20now%20officially%20owns%20Shazam:%20The%20Cupertino,and%20Shazam%20have%20a%20long%20history%20together.",
+                    "snippet": "Sep 24, 2018 — Apple now officially owns Shazam: The Cupertino computer maker announced Monday that its acquisition of Shazam has clo...",
+                    "source": "Variety",
+                    "index": 2
+                }
+            ],
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2NWcFBkekpHV2xCUFVHRm1NblJFZG5kS1dIaFZaM000ZVZoTmJGWlVUVkZzYkdSQmJUVkZWR1JmU0Vsd1JqWk9SV3B6YW1WMmFUZ3pTMVJ2WkhKelZqUlNTRTlSVG1KZlZtMUZjbXBVTTA0M2VGVk5abVJ3Vm5sWVVSSVhjbUYwTUdGTFpXcEJjbWxxTlU1dlVEZHlYMnRwUVdNYUlrRkdUVUZIUjI5SFRYbHllakZ0VEU4Mk1XRkhhMTkyYVhsVE5HcGZaWGt6VjFFIiwiZmN2IjoiMyIsImVpIjoicmF0MGFLZWpBcmlqNU5vUDdyX2tpQWMiLCJxYyI6IkNoSmhjSEJzWlNCemRXSnphV1JwWVhKcFpYTVFBSDNoUXhVXyIsInF1ZXN0aW9uIjoiSXMgU2hhemFtIG93bmVkIGJ5IEFwcGxlPyIsImxrIjoiR2hocGN5QnphR0Y2WVcwZ2IzZHVaV1FnWW5rZ1lYQndiR1UiLCJicyI6ImMtTnk0WklQejhoTXpsQkl6czh0U016TFRDMVdTTWtIRW80RkJUbXBDdm5sZWZZU204T001S1JreWpGVUtTVEMxSEM1QVUzSnpNbFJjTWtzemt1dFZFaEtWVWpLTDAzUEtGRklxb1NZWkM4eDE4dElRVXF1SEtRcUJZc3FzRmxjVmx5U25zVUt3Um1KVlltNUlJTlRVNUJNdUpockpDVWxrVm1zVUl3bUQ5SHJ3NlVVbnBGWW9nQlVVSktScWxDUVdKU2FCelM2S0RFdlJTRV9EV2JJRVRjalpTbkZjandLd2FZSk1BSUEiLCJpZCI6ImZjX3JhdDBhS2VqQXJpajVOb1A3cl9raUFjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2NWcFBkekpHV2xCUFVHRm1NblJFZG5kS1dIaFZaM000ZVZoTmJGWlVUVkZzYkdSQmJUVkZWR1JmU0Vsd1JqWk9SV3B6YW1WMmFUZ3pTMVJ2WkhKelZqUlNTRTlSVG1KZlZtMUZjbXBVTTA0M2VGVk5abVJ3Vm5sWVVSSVhjbUYwTUdGTFpXcEJjbWxxTlU1dlVEZHlYMnRwUVdNYUlrRkdUVUZIUjI5SFRYbHllakZ0VEU4Mk1XRkhhMTkyYVhsVE5HcGZaWGt6VjFFIiwiZmN2IjoiMyIsImVpIjoicmF0MGFLZWpBcmlqNU5vUDdyX2tpQWMiLCJxYyI6IkNoSmhjSEJzWlNCemRXSnphV1JwWVhKcFpYTVFBSDNoUXhVXyIsInF1ZXN0aW9uIjoiSXMgU2hhemFtIG93bmVkIGJ5IEFwcGxlPyIsImxrIjoiR2hocGN5QnphR0Y2WVcwZ2IzZHVaV1FnWW5rZ1lYQndiR1UiLCJicyI6ImMtTnk0WklQejhoTXpsQkl6czh0U016TFRDMVdTTWtIRW80RkJUbXBDdm5sZWZZU204T001S1JreWpGVUtTVEMxSEM1QVUzSnpNbFJjTWtzemt1dFZFaEtWVWpLTDAzUEtGRklxb1NZWkM4eDE4dElRVXF1SEtRcUJZc3FzRmxjVmx5U25zVUt3Um1KVlltNUlJTlRVNUJNdUpockpDVWxrVm1zVUl3bUQ5SHJ3NlVVbnBGWW9nQlVVSktScWxDUVdKU2FCelM2S0RFdlJTRV9EV2JJRVRjalpTbkZjandLd2FZSk1BSUEiLCJpZCI6ImZjX3JhdDBhS2VqQXJpajVOb1A3cl9raUFjXzEifQ%3D%3D"
+        },
+        {
+            "question": "What is the parent brand of Apple?",
+            "type": "featured_snippet",
+            "snippet": "Apple Inc., originally Apple Computer, Inc., is a multinational corporation that creates and markets consumer electronics and attendant computer software, and is a digital distributor of media content. Apple's core product lines are the iPhone smartphone, iPad tablet computer, and the Mac personal computer.",
+            "title": "History of Apple Inc. - Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/History_of_Apple_Inc.#:~:text=Apple%20Inc.%2C%20originally%20Apple%20Computer,and%20the%20Mac%20personal%20computer.",
+            "displayed_link": "https://en.wikipedia.org › wiki › History_of_Apple_Inc",
+            "source_logo": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/6afb43400d5fbec1f83e0ccfdc349817e2aabe090d42627ac16e8d7d47434fec.png",
+            "next_page_token": "eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2NWcFBkekpHV2xCUFVHRm1NblJFZG5kS1dIaFZaM000ZVZoTmJGWlVUVkZzYkdSQmJUVkZWR1JmU0Vsd1JqWk9SV3B6YW1WMmFUZ3pTMVJ2WkhKelZqUlNTRTlSVG1KZlZtMUZjbXBVTTA0M2VGVk5abVJ3Vm5sWVVSSVhjbUYwTUdGTFpXcEJjbWxxTlU1dlVEZHlYMnRwUVdNYUlrRkdUVUZIUjI5SFRYbHllakZ0VEU4Mk1XRkhhMTkyYVhsVE5HcGZaWGt6VjFFIiwiZmN2IjoiMyIsImVpIjoicmF0MGFLZWpBcmlqNU5vUDdyX2tpQWMiLCJxYyI6IkNoSmhjSEJzWlNCemRXSnphV1JwWVhKcFpYTVFBSDNoUXhVXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcGFyZW50IGJyYW5kIG9mIEFwcGxlPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhSb1pTQndZWEpsYm5RZ1luSmhibVFnYjJZZ1lYQndiR1UiLCJicyI6ImMtTnk0WklQejhoTXpsQkl6czh0U016TFRDMVdTTWtIRW80RkJUbXBDdm5sZWZZU204T001S1JreWpGVUtTVEMxSEM1QVUzSnpNbFJjTWtzemt1dFZFaEtWVWpLTDAzUEtGRklxb1NZWkM4eDE4dElRVXF1SEtRcUJZc3FzRmxjVmx5U25zVUt3Um1KVlltNUlJTlRVNUJNdUpockpDVWxrVm1zVUl3bUQ5SHJ3NlVVbnBGWW9nQlVVSktScWxDUVdKU2FCelM2S0RFdlJTRV9EV2JJRVRjalpTbkZjandLd2FZSk1BSUEiLCJpZCI6ImZjX3JhdDBhS2VqQXJpajVOb1A3cl9raUFjXzEifQ==",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_related_questions&google_domain=google.com&next_page_token=eyJvbnMiOiIxMDA0MSIsImZjIjoiRXFFQkNtSkJUR3QwWDNaR2NWcFBkekpHV2xCUFVHRm1NblJFZG5kS1dIaFZaM000ZVZoTmJGWlVUVkZzYkdSQmJUVkZWR1JmU0Vsd1JqWk9SV3B6YW1WMmFUZ3pTMVJ2WkhKelZqUlNTRTlSVG1KZlZtMUZjbXBVTTA0M2VGVk5abVJ3Vm5sWVVSSVhjbUYwTUdGTFpXcEJjbWxxTlU1dlVEZHlYMnRwUVdNYUlrRkdUVUZIUjI5SFRYbHllakZ0VEU4Mk1XRkhhMTkyYVhsVE5HcGZaWGt6VjFFIiwiZmN2IjoiMyIsImVpIjoicmF0MGFLZWpBcmlqNU5vUDdyX2tpQWMiLCJxYyI6IkNoSmhjSEJzWlNCemRXSnphV1JwWVhKcFpYTVFBSDNoUXhVXyIsInF1ZXN0aW9uIjoiV2hhdCBpcyB0aGUgcGFyZW50IGJyYW5kIG9mIEFwcGxlPyIsImxrIjoiR2lGM2FHRjBJR2x6SUhSb1pTQndZWEpsYm5RZ1luSmhibVFnYjJZZ1lYQndiR1UiLCJicyI6ImMtTnk0WklQejhoTXpsQkl6czh0U016TFRDMVdTTWtIRW80RkJUbXBDdm5sZWZZU204T001S1JreWpGVUtTVEMxSEM1QVUzSnpNbFJjTWtzemt1dFZFaEtWVWpLTDAzUEtGRklxb1NZWkM4eDE4dElRVXF1SEtRcUJZc3FzRmxjVmx5U25zVUt3Um1KVlltNUlJTlRVNUJNdUpockpDVWxrVm1zVUl3bUQ5SHJ3NlVVbnBGWW9nQlVVSktScWxDUVdKU2FCelM2S0RFdlJTRV9EV2JJRVRjalpTbkZjandLd2FZSk1BSUEiLCJpZCI6ImZjX3JhdDBhS2VqQXJpajVOb1A3cl9raUFjXzEifQ%3D%3D"
+        }
+    ],
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "List of mergers and acquisitions by Apple",
+            "link": "https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Apple",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Apple&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECBIQAQ",
+            "displayed_link": "https://en.wikipedia.org › wiki › List_of_mergers_and_...",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99ada5aaaf322399fd1a4e4b63a99de2a268.png",
+            "snippet": "Subsidiaries of Apple · Anobit · Apple Energy · Apple IMC · Apple Sales International · Apple Services · Apple Worldwide Video · Beats Electronics · Beddit ...",
+            "snippet_highlighted_words": [
+                "Subsidiaries of Apple"
+            ],
+            "source": "Wikipedia"
+        },
+        {
+            "position": 2,
+            "title": "Apple Subsidiaries and Acquisitions - Insights;Gate",
+            "link": "https://insights.greyb.com/apple-subsidiaries-and-acquisitions/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://insights.greyb.com/apple-subsidiaries-and-acquisitions/&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECBAQAQ",
+            "displayed_link": "https://insights.greyb.com › apple-subsidiaries-and-acqu...",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99ad78505df0ddbecf57199d0368237c8aaf.png",
+            "snippet": "Apple has 100+ subsidiaries worldwide. Here's the list of Apple Subsidiaries. S. No. Company, Country. 1, Apple Asia Llc, United States. 2, Braeburn Capital Inc ...",
+            "snippet_highlighted_words": [
+                "Apple has 100+ subsidiaries worldwide"
+            ],
+            "source": "Insights;Gate"
+        },
+        {
+            "position": 3,
+            "title": "Apple Inc.",
+            "link": "https://en.wikipedia.org/wiki/Apple_Inc.",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://en.wikipedia.org/wiki/Apple_Inc.&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECBMQAQ",
+            "displayed_link": "https://en.wikipedia.org › wiki › Apple_Inc",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99adc09d148299c393ff3de41f5514f147b9.png",
+            "snippet": "Subsidiaries · Apple Studios · Beats Electronics · Beddit · Braeburn Capital · Claris · Globalstar (20%). ASN · 714. Website, apple.com. Footnotes / references",
+            "snippet_highlighted_words": [
+                "Apple Studios"
+            ],
+            "source": "Wikipedia"
+        },
+        {
+            "position": 4,
+            "title": "Legal - Privacy Policy Affiliated Company",
+            "link": "https://www.apple.com/legal/privacy/en-ww/affiliated-company/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.apple.com/legal/privacy/en-ww/affiliated-company/&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECA8QAQ",
+            "displayed_link": "https://www.apple.com › Legal › Privacy Policy",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99ad53d16594a5bb1825a42fea7fb11b3f45.png",
+            "snippet": "For the purposes of this document, an Apple affiliate is a wholly owned entity that is subject to Apple's Privacy Policy.",
+            "snippet_highlighted_words": [
+                "Apple affiliate"
+            ],
+            "source": "Apple"
+        },
+        {
+            "position": 5,
+            "title": "Everything owned by Apple. : r/Infographics",
+            "link": "https://www.reddit.com/r/Infographics/comments/1fqxhu0/everything_owned_by_apple/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.reddit.com/r/Infographics/comments/1fqxhu0/everything_owned_by_apple/&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECF0QAQ",
+            "displayed_link": "80+ comments · 9 months ago",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99ad2dd95a476b87df9a08d2dab069e46e32.png",
+            "snippet": "FYI, Vanguard etc don't own those shares. They're the custodians on behalf of their customers, who actually own the shares.",
+            "sitelinks": {
+                "list": [
+                    {
+                        "title": "A cool guide to everything owned by Apple. : r ...",
+                        "link": "https://www.reddit.com/r/coolguides/comments/1fors22/a_cool_guide_to_everything_owned_by_apple/",
+                        "answer_count": 147,
+                        "date": "Sep 25, 2024"
+                    },
+                    {
+                        "title": "What companies does Apple own? - Reddit",
+                        "link": "https://www.reddit.com/r/apple/comments/b7nxq0/what_companies_does_apple_own/",
+                        "answer_count": 198,
+                        "date": "Mar 31, 2019"
+                    }
+                ]
+            },
+            "source": "Reddit · r/Infographics"
+        },
+        {
+            "position": 6,
+            "title": "6 Companies Owned by Apple",
+            "link": "https://www.investopedia.com/investing/top-companies-owned-apple/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.investopedia.com/investing/top-companies-owned-apple/&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECFoQAQ",
+            "displayed_link": "https://www.investopedia.com › investing › top-compa...",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99ad33b28bd10e62e12eef61ed869c461ca1.png",
+            "snippet": "Siri, Beats Electronics, Shazam, NeXT Software, AuthenTec, and Mobeewave are six companies owned by Apple.",
+            "snippet_highlighted_words": [
+                "companies",
+                "Apple"
+            ],
+            "source": "Investopedia"
+        },
+        {
+            "position": 7,
+            "title": "Exhibit",
+            "link": "https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-kexhibit2112018.htm",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.sec.gov/Archives/edgar/data/320193/000032019318000145/a10-kexhibit2112018.htm&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECFgQAQ",
+            "displayed_link": "https://www.sec.gov › data › a10-kexhibit2112018",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99adbaf4d5523ca489c3c6ce625b64bb0dc2.png",
+            "snippet": "Apple Computer Trading (Shanghai) Co., Ltd. China ; Apple Distribution International. Ireland ; Apple Europe Limited. United Kingdom ; Apple Japan, Inc. Japan.",
+            "snippet_highlighted_words": [
+                "Apple Computer Trading (Shanghai) Co., Ltd. China"
+            ],
+            "source": "SEC.gov"
+        },
+        {
+            "position": 8,
+            "title": "Apple's biggest acquisitions: what does Apple own?",
+            "link": "https://www.forex.com/en-us/trading-guides/apple-acquisition-history/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.forex.com/en-us/trading-guides/apple-acquisition-history/&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECFcQAQ",
+            "displayed_link": "https://www.forex.com › Home › Trading Guides",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99ad773b81b191d6bcf51da95b6966efa786.png",
+            "snippet": "Apple owns approximately 125 companies with an approximate value of $8 billion. A lot of companies that Apple has bought are smaller technology firms.",
+            "snippet_highlighted_words": [
+                "Apple owns approximately 125 companies"
+            ],
+            "source": "FOREX.com"
+        },
+        {
+            "position": 9,
+            "title": "All subsidiary companies of the Apple Inc. group (Nasdaq)",
+            "link": "https://www.marketscreener.com/quote/stock/APPLE-INC-4849/company-group/",
+            "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.marketscreener.com/quote/stock/APPLE-INC-4849/company-group/&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQFnoECF4QAQ",
+            "displayed_link": "https://www.marketscreener.com › stock › company-group",
+            "favicon": "https://serpapi.com/searches/6874abaaabe7ec5036da1348/images/fce7a323c9d7c7180e06da75634a99ada80fd2187ed35c4dd5912e66f693c0ab.png",
+            "snippet": "Apple Teknoloji & Satis Ltd. Sti. Apple South Asia Pte Ltd. Apple Operations International Ltd. Apple Japan Ltd. Apple Chile Comercial Ltda. Apple Canada, Inc.",
+            "snippet_highlighted_words": [
+                "Apple Teknoloji & Satis Ltd. Sti"
+            ],
+            "source": "MarketScreener"
+        }
+    ],
+    "related_searches": [
+        {
+            "block_position": 1,
+            "items": [
+                {
+                    "name": "Microsoft",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFLk2t2HQsw4NDcAFIBpmD5FWp1N56-BN035JU&s=0",
+                    "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Microsoft&stick=H4sIAAAAAAAAAOMwVOLQz9U3MCkuM_nFyLCBheEVCxcXXOgVCycXO4iTbVEFl7Asyoh_xcLPxaufrm9omFSenGZqaFj8ioWbixMkbViSm5cOV2xcbJ4BlzIxTTZPgkvlpmcD1fFwcYE4GWaWpqZJcK5JVVaWoeEiVk7fzOSi_OL8tJJbbJIMuxd1_GRx3W-40dJ44yaxx9vZf7n_rU2bsXIRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAO91om3iAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQs9oBKAB6BAhWEAo",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Microsoft&stick=H4sIAAAAAAAAAOMwVOLQz9U3MCkuM_nFyLCBheEVCxcXXOgVCycXO4iTbVEFl7Asyoh_xcLPxaufrm9omFSenGZqaFj8ioWbixMkbViSm5cOV2xcbJ4BlzIxTTZPgkvlpmcD1fFwcYE4GWaWpqZJcK5JVVaWoeEiVk7fzOSi_OL8tJJbbJIMuxd1_GRx3W-40dJ44yaxx9vZf7n_rU2bsXIRh1hAan5BTqpCYk5xvkJxamJRcoZCWn7RCg5GAO91om3iAAAA"
+                },
+                {
+                    "name": "Apple",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKH5oqhZaiLM3J_NCECw0IVQTZnUs66ZG7RvUI&s=0",
+                    "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple&stick=H4sIAAAAAAAAAOMwVGLXz9U3yLao-sXIsIGF4RULFxcHSMSkuMzkFQsnF0waLmFZlBH_ioWfi1c_Xd_QMKk8Oc3U0LD4FQs3FydI2rAkNy8drti42DwDLmVimmyeBJfKTc8GquPh4gJxMswsTU2T4FyTqqwsQ8NFrKyOBQU5qbfYJBl2L-r4yeK633CjpfHGTWKPt7P_cv9bmzZj5SIOsYDUfKAihcSc4nyF4tTEouQMhbT8ohUcjABwJY4X3QAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQs9oBKAB6BAhWEA8",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple&stick=H4sIAAAAAAAAAOMwVGLXz9U3yLao-sXIsIGF4RULFxcHSMSkuMzkFQsnF0waLmFZlBH_ioWfi1c_Xd_QMKk8Oc3U0LD4FQs3FydI2rAkNy8drti42DwDLmVimmyeBJfKTc8GquPh4gJxMswsTU2T4FyTqqwsQ8NFrKyOBQU5qbfYJBl2L-r4yeK633CjpfHGTWKPt7P_cv9bmzZj5SIOsYDUfKAihcSc4nyF4tTEouQMhbT8ohUcjABwJY4X3QAAAA"
+                },
+                {
+                    "name": "Nvidia",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp81u_w7r3lJAvkOvFvvAlrYkGXFxfOI44d3p8&s=0",
+                    "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Nvidia&stick=H4sIAAAAAAAAAOMwVOLQz9U3sCzKiP_FyLCBheEVCxcXWMikuMzkFQsnFzuIk21RBZcAqX3Fws_Fq5-ub2iYVJ6cZmpoWPyKhZuLEyRtWJKblw5XbFxsngGXMjFNNk-CS-WmZwPV8XBxgTgZZpampklwrklVVpah4SJWNr-yzJTMxFtskgy7F3X8ZHHdb7jR0njjJrHH29l_uf-tTZuxchGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAS1rwkN8AAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQs9oBKAB6BAhWEBQ",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Nvidia&stick=H4sIAAAAAAAAAOMwVOLQz9U3sCzKiP_FyLCBheEVCxcXWMikuMzkFQsnFzuIk21RBZcAqX3Fws_Fq5-ub2iYVJ6cZmpoWPyKhZuLEyRtWJKblw5XbFxsngGXMjFNNk-CS-WmZwPV8XBxgTgZZpampklwrklVVpah4SJWNr-yzJTMxFtskgy7F3X8ZHHdb7jR0njjJrHH29l_uf-tTZuxchGHWEBqfkFOqkJiTnG-QnFqYlFyhkJaftEKDkYAS1rwkN8AAAA"
+                },
+                {
+                    "name": "Alphabet Inc.",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWf5uzOVGpOyb1SN2ErGKssUNXlFMooqqieeuq&s=0",
+                    "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Alphabet+Inc.&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwqT04zNTQs_sXIsIGF4RULFxeHfq6-gUlxmckrFk4udhAn26IKLmFZlBH_ioWfC1X3KxZuLk6QtGFJbl46XLFxsXkGXMrENNk8CS6Vm54NVMfDxQXiZJhZmpomwbkmVVlZhoaLWHkdcwoyEpNSSxQ885L1brFJMuxe1PGTxXW_4UZL442bxB5vZ__l_rc2bcbKRRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAHDwKkt6wAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQs9oBKAB6BAhWEBk",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Alphabet+Inc.&stick=H4sIAAAAAAAAAOMwVOLVT9c3NEwqT04zNTQs_sXIsIGF4RULFxeHfq6-gUlxmckrFk4udhAn26IKLmFZlBH_ioWfC1X3KxZuLk6QtGFJbl46XLFxsXkGXMrENNk8CS6Vm54NVMfDxQXiZJhZmpomwbkmVVlZhoaLWHkdcwoyEpNSSxQ885L1brFJMuxe1PGTxXW_4UZL442bxB5vZ__l_rc2bcbKRRxiAan5BTmpCok5xfkKxamJRckZCmn5RSs4GAHDwKkt6wAAAA"
+                },
+                {
+                    "name": "Berkshire Hathaway",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuWc6uJe4CP4PENaHK-H4WsTOuFUYUh0kqn4m1&s=0",
+                    "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Berkshire+Hathaway&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCzJzUv_xciwgYXhFQsXFwdIzKS4zOQVCycXO4iTbVEFl7Asyoh_xcLPxaufrm9omFSenGZqaFj8ioWbC2EWXLFxsXkGXMrENNk8CS6Vm54NVMfDxQXiZJhZmpomwbkmVVlZhoaLWIWcUouyizMyi1IVPBJLMhLLEytvsUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYASHUXPPsAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQs9oBKAB6BAhWEB4",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Berkshire+Hathaway&stick=H4sIAAAAAAAAAOMwVOLUz9U3MCzJzUv_xciwgYXhFQsXFwdIzKS4zOQVCycXO4iTbVEFl7Asyoh_xcLPxaufrm9omFSenGZqaFj8ioWbC2EWXLFxsXkGXMrENNk8CS6Vm54NVMfDxQXiZJhZmpomwbkmVVlZhoaLWIWcUouyizMyi1IVPBJLMhLLEytvsUky7F7U8ZPFdb_hRkvjjZvEHm9n_-X-tzZtxspFHGIBqfkFOakKiTnF-QrFqYlFyRkKaflFKzgYASHUXPPsAAAA"
+                },
+                {
+                    "name": "Intel",
+                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1hD9lJUK3XM9wOJio7SnRSKQhbRHJ8VtP6bqI&s=0",
+                    "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Intel&stick=H4sIAAAAAAAAAOMwVOLQz9U3MC42z_jFyLCBheEVCxcXWMikuMzkFQsnFzuIk21RBZewLMqIf8XCz8Wrn65vaJhUnpxmamhY_IqFm4sTJG1YkpuXDlcMMhguZWKabJ4El8pNzwaq4-HiAnEyzCxNTZPgXJOqrCxDw0WsrJ55Jak5t9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjABr8MB-3gAAAA&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQs9oBKAB6BAhWECM",
+                    "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Intel&stick=H4sIAAAAAAAAAOMwVOLQz9U3MC42z_jFyLCBheEVCxcXWMikuMzkFQsnFzuIk21RBZewLMqIf8XCz8Wrn65vaJhUnpxmamhY_IqFm4sTJG1YkpuXDlcMMhguZWKabJ4El8pNzwaq4-HiAnEyzCxNTZPgXJOqrCxDw0WsrJ55Jak5t9gkGXYv6vjJ4rrfcKOl8cZNYo-3s_9y_1ubNmPlIg6xgNT8gpxUhcSc4nyF4tTEouQMhbT8ohUcjABr8MB-3gAAAA"
+                }
+            ]
+        },
+        {
+            "block_position": 1,
+            "query": "Apple subsidiaries list",
+            "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+subsidiaries+list&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ1QJ6BAhvEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+subsidiaries+list"
+        },
+        {
+            "block_position": 1,
+            "query": "How many companies does Apple own",
+            "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=How+many+companies+does+Apple+own&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ1QJ6BAhuEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=How+many+companies+does+Apple+own"
+        },
+        {
+            "block_position": 1,
+            "query": "Apple acquisition rumors",
+            "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+acquisition+rumors&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ1QJ6BAhtEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+acquisition+rumors"
+        },
+        {
+            "block_position": 1,
+            "query": "Apple subsidiaries california",
+            "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Apple+subsidiaries+california&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ1QJ6BAhsEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+subsidiaries+california"
+        },
+        {
+            "block_position": 1,
+            "query": "Does Apple own Intel",
+            "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Does+Apple+own+Intel&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ1QJ6BAhrEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Does+Apple+own+Intel"
+        },
+        {
+            "block_position": 1,
+            "query": "Microsoft subsidiaries",
+            "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Microsoft+subsidiaries&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ1QJ6BAhqEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Microsoft+subsidiaries"
+        },
+        {
+            "block_position": 1,
+            "query": "Who owns Apple iPhone",
+            "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Who+owns+Apple+iPhone&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ1QJ6BAhpEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Who+owns+Apple+iPhone"
+        },
+        {
+            "block_position": 1,
+            "query": "Who owns Apple after Steve Jobs",
+            "link": "https://www.google.com/search?sca_esv=5a22c565f72fb56e&gl=us&hl=en&q=Who+owns+Apple+after+Steve+Jobs&sa=X&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ1QJ6BAhwEAE",
+            "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Who+owns+Apple+after+Steve+Jobs"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=10&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8NMDegQICBAW",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=10&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAE",
+            "3": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=20&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAG",
+            "4": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=30&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAI",
+            "5": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=40&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAK",
+            "6": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=50&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAM",
+            "7": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=60&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAO",
+            "8": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=70&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAQ",
+            "9": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=80&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAS",
+            "10": "https://www.google.com/search?q=Apple+Subsidiaries&sca_esv=5a22c565f72fb56e&gl=us&hl=en&ei=rat0aKejArij5NoP7r_kiAc&start=90&sa=N&sstk=Ac65TH5qPaVr_ylWwGdFDfrEefGYXAeYK0fDEq7aUmzamgTU5E8H5SYgu6YX179CFnB7PUusOKHu3i1tK-9LhHMaYWbD7fTKeCzXRQ&ved=2ahUKEwjnrcSE5LuOAxW4EVkFHe4fGXEQ8tMDegQICBAU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=10",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=10",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=10",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=20",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=30",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=40",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=50",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=60",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=70",
+            "9": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=80",
+            "10": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=Apple+Subsidiaries&start=90"
+        }
+    }
+}
