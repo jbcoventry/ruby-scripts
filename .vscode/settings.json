@@ -3,4 +3,7 @@
         "editor.defaultFormatter": "testdouble.vscode-standard-ruby"
     },
     "standardRuby.mode": "enableViaGemfile",
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.formatOnType": false,
 }
